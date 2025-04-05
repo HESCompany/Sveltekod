@@ -1,12 +1,12 @@
 # SvelKod
 
-Migrasi dari [RavaelaBkod](https://github.com/HESCompany/RavaelaBkod) ke SvelteKit.
+Migrasi dari [RavaelaBkod](https://github.com/HESCompany/RavaelaBkod) ke Svelte.
 
 ## Alasan Migrasi
 
 ### Kebutuhan Tutorial Tertulis
 - RavaelaBkod (Laravel Bengkel Koding) tidak memiliki tutorial tertulis atau blog tutorial
-- Preferensi untuk belajar melalui dokumentasi dan tutorial tertulis
+- Tidak ada preferensi untuk belajar melalui dokumentasi dan tutorial tertulis
 
 ### Keunggulan Svelte
 1. **Tutorial & Dokumentasi**
