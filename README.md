@@ -1,7 +1,25 @@
-# Sveltekod
-migrasi dari RavaelaBkod https://github.com/HESCompany/RavaelaBkod
-karena laravel bengkel koding tidak memiliki tutorial tertulis (atau blog tutorial) dan karena saya lebih nyaman membaca blog tutorial / tutorial tertulis / dokumentasi.
-svelte memiliki - blog tutorial/tutorial tertulis yang nyaman, mudah dibaca & mudah dipahami.
-                - dokumentasi yang interaktif, mudah diikuti, banyak pilihan resmi, mudah dibaca, sesuai preferensi dan mudah dipahami.
-                - didukung oleh pihak komunitas dan pihak resmi.
-saya lebih nyaman menggunakan svelte.
+# SvelKod
+
+Migrasi dari [RavaelaBkod](https://github.com/HESCompany/RavaelaBkod) ke SvelteKit.
+
+## Alasan Migrasi
+
+### Kebutuhan Tutorial Tertulis
+- RavaelaBkod (Laravel Bengkel Koding) tidak memiliki tutorial tertulis atau blog tutorial
+- Preferensi untuk belajar melalui dokumentasi dan tutorial tertulis
+
+### Keunggulan Svelte
+1. **Tutorial & Dokumentasi**
+   - Blog tutorial yang nyaman dan mudah dibaca
+   - Tutorial tertulis yang komprehensif
+   - Dokumentasi yang interaktif dan mudah diikuti
+
+2. **Kualitas Dokumentasi**
+   - Mudah dipahami
+   - Banyak pilihan resmi
+   - Format yang sesuai preferensi pembaca
+
+3. **Dukungan yang Kuat**
+   - Didukung oleh komunitas yang aktif
+   - Dukungan resmi dari tim Svelte
+   - Ekosistem yang berkembang
